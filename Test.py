@@ -1,1 +1,3 @@
-print("hello");
+print("hello")
+print("shine")
+print("きゆうしね")
